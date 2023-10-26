@@ -2,15 +2,17 @@
     box-sizing: border-box;
   }
 
+
 body {
     background-color: #1A1E23;
     font-family: "Lato", sans-serif;
+    color: #ffffff;
     -webkit-font-smoothing: antialiased;
     margin:auto;
     max-width: 1200px;
     min-height: 100vh;
 }
-  
+
 nav {
     position: relative;
     padding-bottom: 12px;
@@ -63,4 +65,8 @@ nav ul li a {
     margin: auto;
     width: 100%;
     height: 100%;
+}
+
+hr.solid {
+    border-top: 3px solid
 }
