@@ -10,7 +10,9 @@ body {
     max-width: 1200px;
     min-height: 100vh;
 }
-  
+p, h1, h2, h3, h4, h5, h6 {
+    color:#ffffff
+}
 nav {
     position: relative;
     padding-bottom: 12px;
@@ -67,4 +69,16 @@ nav ul li a {
 
 h1 {
     font-size: 52px;
+}
+#range-img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+#somersault-img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
 }
