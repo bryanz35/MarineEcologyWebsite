@@ -70,3 +70,7 @@ nav ul li a {
 hr.solid {
     border-top: 3px solid
 }
+
+h1 {
+    font-size: 52px;
+}
