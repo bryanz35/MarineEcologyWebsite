@@ -68,3 +68,8 @@ nav ul li a {
 h1 {
     font-size: 52px;
 }
+@media (max-width: 768px) {
+    #f-wrapper {
+        flex-direction: column; 
+    }
+}

@@ -74,3 +74,8 @@ h1 {
 #manta-img {
     max-width: 60vw;
 }
+@media (max-width: 768px) {
+    #f-wrapper {
+        flex-direction: column;
+    }
+}
